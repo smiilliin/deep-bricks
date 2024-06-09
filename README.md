@@ -10,7 +10,12 @@ Deep-learning with bricks and modules
 4. Drag the brick and double-click to edit the model layer.
 5. Turn on learning mode to accept new datasets.
 6. Once you have passed enough datasets, click the Train button.
-7. Turn off train mode (important) and pass data for prediction.
+7. Turn off train mode (important) and pass data for prediction.'
+
+
+https://github.com/smiilliin/deep-bricks/assets/121614843/2f6bb3c0-da38-4c20-a2c4-7fe8c65a2487
+
+
 
 ### How to use
 
@@ -39,7 +44,14 @@ npm run build
 ## Examples
 
 ### 1D Prediction
+https://github.com/smiilliin/deep-bricks/assets/121614843/48fb11c2-ba29-4700-b58c-471cffca3bae
+
 
 ### 2D Prediction
+https://github.com/smiilliin/deep-bricks/assets/121614843/d81053d6-bf6c-4528-a973-447c1a04f9b8
 
 ### CNN 128x128
+https://github.com/smiilliin/deep-bricks/assets/121614843/b573a68a-093c-4f1d-9b81-17817d18519b
+
+
+
